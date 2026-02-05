@@ -32,7 +32,3 @@ To run this project, you'll need to install the following dependencies:
 - numpy
 - matplotlib
 - seaborn
-
-You can install these dependencies by running:
-
-```bash
