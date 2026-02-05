@@ -43,4 +43,4 @@ input_data = np.array([bedrooms, bathrooms, sqft_living, sqft_lot, floors, water
 # Display prediction
 if st.button("Predict House Price"):
     prediction = predict_house_price(input_data)
-    st.write(f"Predicted House Price: ${prediction:,.2f}")
+    st.write(f"Predicted House Price: Tsh {prediction:,.2f}")
